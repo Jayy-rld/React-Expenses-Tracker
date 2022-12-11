@@ -1,6 +1,7 @@
 .expenses {
-  padding: 1rem;
-  background-color: rgb(31, 31, 31);
+  font-family: 'Montserrat';
+  padding: 1.5rem;
+  background-color: rgb(1, 1, 46);
   margin: 2rem auto;
   width: 50rem;
   max-width: 95%;
